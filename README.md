@@ -2,6 +2,7 @@
 In Class Demo for ICOM 101 Workshop 
 #Cher X
 Ariel Hulfachor
+Sedona Cruz
 Jazmycelium
 Anna Yoshinari
 ## Prerequisites
